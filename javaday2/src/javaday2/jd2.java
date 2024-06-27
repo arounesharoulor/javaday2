@@ -6,6 +6,7 @@ public class jd2 {
 	{
 		System.out.println("welcome to java day2");
 		System.out.println("hi");
+		System.out.print(0);
 	}
 
 }
