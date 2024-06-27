@@ -9,7 +9,7 @@ public class newj {
 		System.out.println(ch1);
 		char var1='\u00A7';
 		System.out.println(var1);
-		char var2='\u00AC';s
+		char var2='\u00AC';
 		System.out.println(var2);
 		char a='A';
 		System.out.println(a);
