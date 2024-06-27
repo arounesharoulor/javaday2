@@ -13,6 +13,9 @@ public class newj {
 		System.out.println(var2);
 		char a='A';
 		System.out.println(a);
+		int marker= 512;
+		double percentage= marker*0.46f;
+		System.out.println("percentage:"+ percentage);
 		
 	}
 
